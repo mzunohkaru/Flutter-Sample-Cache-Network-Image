@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://picsum.photos/250?image=8",
+    "key": "https://picsum.photos/250?image=8",
+    "relativePath": "749c5640-5bac-11ef-a056-eb63346a86c5.jpg",
+    "eTag": null,
+    "validTill": 1726390172042,
+    "touched": 1723798172828,
+    "length": 11923,
+    "_id": 1
+  },
+  {
+    "url": "https://picsum.photos/250?image=0",
+    "key": "https://picsum.photos/250?image=0",
+    "relativePath": "74f7e3c0-5bac-11ef-a056-eb63346a86c5.jpg",
+    "eTag": null,
+    "validTill": 1726390172668,
+    "touched": 1723798173133,
+    "length": 10610,
+    "_id": 2
+  },
+  {
+    "url": "https://picsum.photos/250?image=4",
+    "key": "https://picsum.photos/250?image=4",
+    "relativePath": "750e2ae0-5bac-11ef-a056-eb63346a86c5.jpg",
+    "eTag": null,
+    "validTill": 1726390172813,
+    "touched": 1723798173227,
+    "length": 8576,
+    "_id": 3
+  },
+  {
+    "url": "https://picsum.photos/250?image=7",
+    "key": "https://picsum.photos/250?image=7",
+    "relativePath": "74ff5dd0-5bac-11ef-a056-eb63346a86c5.jpg",
+    "eTag": null,
+    "validTill": 1726390172717,
+    "touched": 1723798173228,
+    "length": 11906,
+    "_id": 4
+  },
+  {
+    "url": "https://picsum.photos/250?image=1",
+    "key": "https://picsum.photos/250?image=1",
+    "relativePath": "750c7d"
+  }
+]
